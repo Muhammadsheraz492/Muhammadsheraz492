@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsheraz492&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsheraz492" /> </p>
-<h3 align="center">I'm a passionate Back-end Developer from Pakistan.</h3>
+<!-- <h3 align="center">I'm a passionate Back-end Developer from Pakistan.</h3> -->
 
 <h1 align="center">Hi 👋, I'm Muhammad sheraz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
