@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm muhammadshiraz</h1>
+<h1 align="center">Hi 👋, I'm muhammadshiraz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsheraz492&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsheraz492" /> </p>
@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsheraz492&show_icons=true&locale=en" alt="muhammadsheraz492" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsheraz492&" alt="muhammadsheraz492" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsheraz492&" alt="muhammadsheraz492" /></p>
